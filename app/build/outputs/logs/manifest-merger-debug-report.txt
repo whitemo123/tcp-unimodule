@@ -1,0 +1,518 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-99:12
+MERGED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:2:1-266:12
+MERGED from [android-gif-drawable-release@1.2.23.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/762dc77eb15a2f314d554cd2bfd2bde1/jetified-android-gif-drawable-release@1.2.23/AndroidManifest.xml:2:1-9:12
+MERGED from [uniapp-v8-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/AndroidManifest.xml:20:1-37:12
+MERGED from [oaid_sdk_1.0.25.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/809979912b8ad9eadb0c63913b3a1c9f/jetified-oaid_sdk_1.0.25/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/c9e3c86218f0ebf08d011b105d6d4b36/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ec2a639313b576d820886b92c65549de/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/7087e7f62a3d23efa2c47cb5fc0ce856/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/d3a60380f469f2d843b3abc24f75c1bb/jetified-fresco-1.13.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/eefc3eac1932c86fb5dd86807d004e9a/animated-gif-1.13.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/54408b409893a57e94f864d4b861db08/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [:mobai_tcp] /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/mobai_tcp/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.media:media:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/b52031778c3730d2e5cb2a6c88a2a2c6/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/4115f23b00840c3d26f2168b260dc966/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/09dd2c790eff1bcee213e29d48192e69/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3db056b7b2a67d9700cd1094de7f7779/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/087418591f402220f122a32114fbea96/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/5246ee9bdc0e9c40de1fe5e864af51c0/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3a40d00373143d317b2bee08071df362/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/1aafd20561bc3ee9f58c28dfa8215062/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/92001d884bae6b5cefc26e21923317cd/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/727f4567341fcf59ba6ec2fbb4290436/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/0b21398ec4672209e12f9d44aaf124af/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/da4859f2c8e5d53f282ea268af4c5fee/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/20725fa20214e86eb8fa55394d5d409e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/247f3bbc11fc5188f3d3375e9cc247ac/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/4fa96a30a609219e9d73eea686ac383a/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/79a301892a9f029dc033d4b17f38d796/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/129d7c6539a600a7346451cc911530ca/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/67439cbd9f0c4a0312a44f098700f350/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/10110df7080fc19484462ad1544bc732/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/a22fab001772e3213fd3f87fdd80b5c6/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/7814cceeb7ac44ad46459a3c3c62875b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/40996d6039fa2fb22354b30f3d767665/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/2c4abb3c9f84da22a9da11e175a85c23/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/f6ea0f7b82b1e478e582e673833f4259/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/06bc4641de51b04d4df94808d6e05292/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/1b64911e987df0fea019408e241659d7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/db384f4c9941c60fcddae6f443ba9af8/animated-base-1.13.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/66d10599fccbdfaeb8b6b320acd3d0d6/jetified-animated-drawable-1.13.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/28d99f3a5fc9f1f825664ec1faa3b21e/jetified-drawee-1.13.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/1f1d5b0d73bd271adbf57a9f5459e85b/nativeimagefilters-1.13.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/08c702410c4df88705346e4ac0da7c58/jetified-imagepipeline-1.13.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/b2cb82085d99134ed8d8c6a0c06881fa/nativeimagetranscoder-1.13.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ea7d29e1f07d20b48a3112b6cd17a8f4/jetified-imagepipeline-base-1.13.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/07dde11e134e297825753f8573d28f9a/jetified-fbcore-1.13.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3e80261709c2ea9f77d87cf799dc92a6/soloader-0.6.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-99:12
+	package
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-99:12
+		INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-99:12
+		INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:5:5-10:39
+MERGED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:9:5-14:39
+MERGED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:9:5-14:39
+	android:largeScreens
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:7:9-36
+	android:smallScreens
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:10:9-36
+	android:normalScreens
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:8:9-37
+	android:resizeable
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:9:9-34
+	android:anyDensity
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:6:9-34
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:14:5-81
+MERGED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:16:5-81
+MERGED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:14:22-78
+uses-feature#android.hardware.camera
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:16:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:17:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:19:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:20:22-66
+application
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:23:5-97:19
+MERGED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:169:5-264:19
+MERGED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:169:5-264:19
+MERGED from [uniapp-v8-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/AndroidManifest.xml:29:5-35:19
+MERGED from [uniapp-v8-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/AndroidManifest.xml:29:5-35:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/54408b409893a57e94f864d4b861db08/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/54408b409893a57e94f864d4b861db08/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/4fa96a30a609219e9d73eea686ac383a/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/4fa96a30a609219e9d73eea686ac383a/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/79a301892a9f029dc033d4b17f38d796/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/79a301892a9f029dc033d4b17f38d796/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/67439cbd9f0c4a0312a44f098700f350/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/67439cbd9f0c4a0312a44f098700f350/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3e80261709c2ea9f77d87cf799dc92a6/soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3e80261709c2ea9f77d87cf799dc92a6/soloader-0.6.0/AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		ADDED from [uniapp-v8-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/AndroidManifest.xml:29:18-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/4fa96a30a609219e9d73eea686ac383a/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:28:9-41
+	android:allowClearUserData
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:26:9-42
+	android:debuggable
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:30:9-34
+	android:largeHeap
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:29:9-33
+	android:icon
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:27:9-38
+	android:allowBackup
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:25:9-35
+	android:usesCleartextTraffic
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:172:9-44
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:24:9-63
+activity#io.dcloud.PandoraEntry
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:34:9-56:20
+	android:hardwareAccelerated
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:38:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:39:13-55
+	android:configChanges
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:37:13-92
+	android:theme
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:35:13-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:hbuilder
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:40:13-46:29
+data
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:41:17-50
+	android:scheme
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:41:23-48
+	android:mimeType
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:48:23-49
+action#android.intent.action.VIEW
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:44:17-75
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:44:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:45:27-75
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.SEND
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:49:17-68
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:49:25-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:53:17-68
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:54:17-76
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:54:27-74
+meta-data#dcloud_uninview_background
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:57:9-58:35
+	android:value
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:58:13-33
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:57:20-61
+activity#io.dcloud.PandoraEntryActivity
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:60:9-84:20
+	android:screenOrientation
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:66:13-45
+	android:launchMode
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:62:13-44
+	android:hardwareAccelerated
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:64:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:68:13-55
+	android:permission
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:65:13-89
+	android:configChanges
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:63:13-144
+	android:theme
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:67:13-47
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:61:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme: 
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:70:13-83:29
+provider#io.dcloud.common.util.DCloud_FileProvider
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:85:9-93:20
+	android:grantUriPermissions
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:89:13-47
+	android:authorities
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:87:13-72
+	android:exported
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:88:13-37
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:86:13-69
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:90:13-92:64
+	android:resource
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:92:17-61
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:91:17-67
+meta-data#dcloud_appkey
+ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:94:9-96:64
+	android:value
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:96:13-61
+	android:name
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:95:13-41
+uses-sdk
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+MERGED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:7:5-44
+MERGED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:7:5-44
+MERGED from [android-gif-drawable-release@1.2.23.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/762dc77eb15a2f314d554cd2bfd2bde1/jetified-android-gif-drawable-release@1.2.23/AndroidManifest.xml:5:5-7:41
+MERGED from [android-gif-drawable-release@1.2.23.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/762dc77eb15a2f314d554cd2bfd2bde1/jetified-android-gif-drawable-release@1.2.23/AndroidManifest.xml:5:5-7:41
+MERGED from [uniapp-v8-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/AndroidManifest.xml:25:5-27:41
+MERGED from [uniapp-v8-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/AndroidManifest.xml:25:5-27:41
+MERGED from [oaid_sdk_1.0.25.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/809979912b8ad9eadb0c63913b3a1c9f/jetified-oaid_sdk_1.0.25/AndroidManifest.xml:8:5-11:63
+MERGED from [oaid_sdk_1.0.25.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/809979912b8ad9eadb0c63913b3a1c9f/jetified-oaid_sdk_1.0.25/AndroidManifest.xml:8:5-11:63
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/c9e3c86218f0ebf08d011b105d6d4b36/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/c9e3c86218f0ebf08d011b105d6d4b36/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ec2a639313b576d820886b92c65549de/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ec2a639313b576d820886b92c65549de/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/7087e7f62a3d23efa2c47cb5fc0ce856/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/7087e7f62a3d23efa2c47cb5fc0ce856/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/d3a60380f469f2d843b3abc24f75c1bb/jetified-fresco-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/d3a60380f469f2d843b3abc24f75c1bb/jetified-fresco-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/eefc3eac1932c86fb5dd86807d004e9a/animated-gif-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/eefc3eac1932c86fb5dd86807d004e9a/animated-gif-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/54408b409893a57e94f864d4b861db08/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/54408b409893a57e94f864d4b861db08/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [:mobai_tcp] /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/mobai_tcp/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:mobai_tcp] /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/mobai_tcp/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.media:media:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/b52031778c3730d2e5cb2a6c88a2a2c6/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/b52031778c3730d2e5cb2a6c88a2a2c6/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/4115f23b00840c3d26f2168b260dc966/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/4115f23b00840c3d26f2168b260dc966/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/09dd2c790eff1bcee213e29d48192e69/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/09dd2c790eff1bcee213e29d48192e69/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3db056b7b2a67d9700cd1094de7f7779/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3db056b7b2a67d9700cd1094de7f7779/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/087418591f402220f122a32114fbea96/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/087418591f402220f122a32114fbea96/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/5246ee9bdc0e9c40de1fe5e864af51c0/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/5246ee9bdc0e9c40de1fe5e864af51c0/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3a40d00373143d317b2bee08071df362/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3a40d00373143d317b2bee08071df362/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/1aafd20561bc3ee9f58c28dfa8215062/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/1aafd20561bc3ee9f58c28dfa8215062/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/92001d884bae6b5cefc26e21923317cd/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/92001d884bae6b5cefc26e21923317cd/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/727f4567341fcf59ba6ec2fbb4290436/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/727f4567341fcf59ba6ec2fbb4290436/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/0b21398ec4672209e12f9d44aaf124af/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/0b21398ec4672209e12f9d44aaf124af/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/da4859f2c8e5d53f282ea268af4c5fee/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/da4859f2c8e5d53f282ea268af4c5fee/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/20725fa20214e86eb8fa55394d5d409e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/20725fa20214e86eb8fa55394d5d409e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/247f3bbc11fc5188f3d3375e9cc247ac/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/247f3bbc11fc5188f3d3375e9cc247ac/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/4fa96a30a609219e9d73eea686ac383a/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/4fa96a30a609219e9d73eea686ac383a/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/79a301892a9f029dc033d4b17f38d796/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/79a301892a9f029dc033d4b17f38d796/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/129d7c6539a600a7346451cc911530ca/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/129d7c6539a600a7346451cc911530ca/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/67439cbd9f0c4a0312a44f098700f350/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/67439cbd9f0c4a0312a44f098700f350/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/10110df7080fc19484462ad1544bc732/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/10110df7080fc19484462ad1544bc732/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/a22fab001772e3213fd3f87fdd80b5c6/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/a22fab001772e3213fd3f87fdd80b5c6/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/7814cceeb7ac44ad46459a3c3c62875b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/7814cceeb7ac44ad46459a3c3c62875b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/40996d6039fa2fb22354b30f3d767665/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/40996d6039fa2fb22354b30f3d767665/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/2c4abb3c9f84da22a9da11e175a85c23/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/2c4abb3c9f84da22a9da11e175a85c23/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/f6ea0f7b82b1e478e582e673833f4259/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/f6ea0f7b82b1e478e582e673833f4259/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/06bc4641de51b04d4df94808d6e05292/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/06bc4641de51b04d4df94808d6e05292/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/1b64911e987df0fea019408e241659d7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/1b64911e987df0fea019408e241659d7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/db384f4c9941c60fcddae6f443ba9af8/animated-base-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/db384f4c9941c60fcddae6f443ba9af8/animated-base-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/66d10599fccbdfaeb8b6b320acd3d0d6/jetified-animated-drawable-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/66d10599fccbdfaeb8b6b320acd3d0d6/jetified-animated-drawable-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/28d99f3a5fc9f1f825664ec1faa3b21e/jetified-drawee-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/28d99f3a5fc9f1f825664ec1faa3b21e/jetified-drawee-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/1f1d5b0d73bd271adbf57a9f5459e85b/nativeimagefilters-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/1f1d5b0d73bd271adbf57a9f5459e85b/nativeimagefilters-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/08c702410c4df88705346e4ac0da7c58/jetified-imagepipeline-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/08c702410c4df88705346e4ac0da7c58/jetified-imagepipeline-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/b2cb82085d99134ed8d8c6a0c06881fa/nativeimagetranscoder-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/b2cb82085d99134ed8d8c6a0c06881fa/nativeimagetranscoder-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ea7d29e1f07d20b48a3112b6cd17a8f4/jetified-imagepipeline-base-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ea7d29e1f07d20b48a3112b6cd17a8f4/jetified-imagepipeline-base-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/07dde11e134e297825753f8573d28f9a/jetified-fbcore-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.13.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/07dde11e134e297825753f8573d28f9a/jetified-fbcore-1.13.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3e80261709c2ea9f77d87cf799dc92a6/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mobai/.gradle/caches/transforms-2/files-2.1/3e80261709c2ea9f77d87cf799dc92a6/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [oaid_sdk_1.0.25.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/809979912b8ad9eadb0c63913b3a1c9f/jetified-oaid_sdk_1.0.25/AndroidManifest.xml:11:9-60
+	android:targetSdkVersion
+		INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:18:22-76
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:24:5-91
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:24:22-88
+uses-permission#com.vivo.notification.permission.BADGE_ICON
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:26:5-83
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:26:22-80
+queries
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:28:5-37:15
+intent#action:name:android.intent.action.MAIN
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:29:9-31:18
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:32:9-36:18
+activity#io.dcloud.imagepick.CustomGalleryActivity
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:173:9-176:40
+	android:noHistory
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:176:13-37
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:175:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:174:13-69
+activity#io.dcloud.feature.nativeObj.photoview.PhotoActivity
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:177:9-181:58
+	android:noHistory
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:180:13-38
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:179:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:181:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:178:13-79
+activity#io.dcloud.WebAppActivity
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:182:9-192:58
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:189:13-49
+	android:label
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:187:13-46
+	android:launchMode
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:188:13-44
+	android:hardwareAccelerated
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:185:13-47
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:192:13-55
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:184:13-92
+	android:icon
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:186:13-51
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:191:13-47
+	android:taskAffinity
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:190:13-43
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:183:13-52
+activity#io.dcloud.ProcessMediator
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:193:9-197:75
+	android:excludeFromRecents
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:195:13-46
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:196:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:197:13-72
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:194:13-53
+activity#io.dcloud.WebviewActivity
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:198:9-204:20
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:201:13-49
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:203:13-52
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:200:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:202:13-51
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:199:13-53
+receiver#io.dcloud.common.adapter.io.DownloadReceiver
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:206:9-214:20
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:208:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:207:13-72
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+data:scheme:package
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:209:13-213:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:210:17-78
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:210:25-75
+activity#com.dmcbig.mediapicker.PickerActivity
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:217:9-222:63
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:222:13-60
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:220:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:219:13-59
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:221:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:218:13-65
+activity#com.dmcbig.mediapicker.PreviewActivity
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:223:9-228:63
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:228:13-60
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:226:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:225:13-59
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:227:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:224:13-66
+meta-data#android.max_aspect
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:249:9-251:35
+	android:value
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:251:13-32
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:250:13-46
+activity#io.dcloud.feature.gallery.imageedit.IMGEditActivity
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:253:9-258:63
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:258:13-60
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:256:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:255:13-74
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:257:13-50
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:254:13-79
+service#io.dcloud.ads.base.service.DownloadService
+ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:260:9-263:72
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:262:13-37
+	android:permission
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:263:13-69
+	android:name
+		ADDED from [lib.5plus.base-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/ae5f52c4b0efedf009115ecd2dc8d302/jetified-lib.5plus.base-release/AndroidManifest.xml:261:13-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-99:12 reason: io.dcloud.base requested WRITE_EXTERNAL_STORAGE
+receiver#com.taobao.weex.WXGlobalEventReceiver
+ADDED from [uniapp-v8-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [uniapp-v8-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [uniapp-v8-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [uniapp-v8-release.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/AndroidManifest.xml:31:13-65
+uses-permission#com.asus.msa.SupplementaryDID.ACCESS
+ADDED from [oaid_sdk_1.0.25.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/809979912b8ad9eadb0c63913b3a1c9f/jetified-oaid_sdk_1.0.25/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [oaid_sdk_1.0.25.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/809979912b8ad9eadb0c63913b3a1c9f/jetified-oaid_sdk_1.0.25/AndroidManifest.xml:13:22-73
+uses-permission#freemme.permission.msa
+ADDED from [oaid_sdk_1.0.25.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/809979912b8ad9eadb0c63913b3a1c9f/jetified-oaid_sdk_1.0.25/AndroidManifest.xml:15:5-62
+	android:name
+		ADDED from [oaid_sdk_1.0.25.aar] /Users/mobai/.gradle/caches/transforms-2/files-2.1/809979912b8ad9eadb0c63913b3a1c9f/jetified-oaid_sdk_1.0.25/AndroidManifest.xml:15:22-59

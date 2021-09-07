@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽主頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"顯示全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"刪除"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空白鍵"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="dcloud_common_allow">允許</string>
+    <string name="dcloud_common_cancel">取消</string>
+    <string name="dcloud_common_close">關閉</string>
+    <string name="dcloud_common_download">下載</string>
+    <string name="dcloud_common_exit">退出</string>
+    <string name="dcloud_common_fail">失敗</string>
+    <string name="dcloud_common_ignore">忽略</string>
+    <string name="dcloud_common_into">進入</string>
+    <string name="dcloud_common_no_allow">不允許</string>
+    <string name="dcloud_common_ok">確認</string>
+    <string name="dcloud_common_open">打開</string>
+    <string name="dcloud_common_refresh">重繪</string>
+    <string name="dcloud_common_retry">重試</string>
+    <string name="dcloud_common_search">蒐索</string>
+    <string name="dcloud_common_set_up">設定</string>
+    <string name="dcloud_common_share">分享</string>
+    <string name="dcloud_common_tips">提示</string>
+    <string name="dcloud_gallery_Next">下一步</string>
+    <string name="dcloud_gallery_all_dir_name">所有圖片和視頻</string>
+    <string name="dcloud_gallery_all_image">所有圖片</string>
+    <string name="dcloud_gallery_all_video">所有視頻</string>
+    <string name="dcloud_gallery_cant_play_video">沒有可以播放的程式</string>
+    <string name="dcloud_gallery_count_string">個</string>
+    <string name="dcloud_gallery_done">完成</string>
+    <string name="dcloud_gallery_edit">編輯</string>
+    <string name="dcloud_gallery_edit_image_all_photo">所有照片</string>
+    <string name="dcloud_gallery_edit_image_cancel">取消</string>
+    <string name="dcloud_gallery_edit_image_clip">裁剪</string>
+    <string name="dcloud_gallery_edit_image_done">完成</string>
+    <string name="dcloud_gallery_edit_image_doodle">塗鴉</string>
+    <string name="dcloud_gallery_edit_image_enable_storage_permission">開啟存儲許可權</string>
+    <string name="dcloud_gallery_edit_image_enable_storage_tips">相册功能需要使用到存儲許可權，請在設定中開啟此應用的存儲許可權</string>
+    <string name="dcloud_gallery_edit_image_mosaic">馬賽克</string>
+    <string name="dcloud_gallery_edit_image_mosaic_tip">請直接在圖片上塗抹虛化</string>
+    <string name="dcloud_gallery_edit_image_original">原圖</string>
+    <string name="dcloud_gallery_edit_image_preview">預覽</string>
+    <string name="dcloud_gallery_edit_image_reset">還原</string>
+    <string name="dcloud_gallery_edit_image_rotate">旋轉</string>
+    <string name="dcloud_gallery_edit_image_text">文字</string>
+    <string name="dcloud_gallery_edit_image_undo">撤銷</string>
+    <string name="dcloud_gallery_library_name">媒體選擇器</string>
+    <string name="dcloud_gallery_msg_amount_limit">已達到選擇數量上限</string>
+    <string name="dcloud_gallery_msg_size_limit">請壓縮和剪切後上傳，檔案最大只支持</string>
+    <string name="dcloud_gallery_preview">預覽</string>
+    <string name="dcloud_gallery_read_external_storage">需要打開讀取存儲許可權</string>
+    <string name="dcloud_gallery_select">選擇</string>
+    <string name="dcloud_gallery_select_image_title">選擇圖片</string>
+    <string name="dcloud_gallery_select_null">請選擇檔案</string>
+    <string name="dcloud_gallery_select_title">選擇圖片和視頻</string>
+    <string name="dcloud_gallery_select_video_title">選擇視頻</string>
+    <string name="dcloud_gallery_video">視頻</string>
+    <string name="dcloud_gallery_video_dir_name">所有視頻</string>
+    <string name="dcloud_short_cut_created">"%s"已創建桌面圖示</string>
+    <string name="dcloud_short_cut_created_removed_manually">, 如有重複請手動删除</string>
+    <string name="dcloud_short_cut_if_create_tips">是否將應用“%s”安裝在手機案頭"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

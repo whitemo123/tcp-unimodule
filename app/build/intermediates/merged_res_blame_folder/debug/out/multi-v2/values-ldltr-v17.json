@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mobai/projects/AndroidProjects/UniPlugin-Hello-AS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v17/values-ldltr-v17.xml",
+            "map": [
+                {
+                    "source": "/Users/mobai/.gradle/caches/transforms-2/files-2.1/cb7742c3c59549844100bfea2027347f/jetified-uniapp-v8-release/res/values-ldltr-v17/values-ldltr-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

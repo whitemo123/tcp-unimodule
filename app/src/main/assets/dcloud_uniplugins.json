@@ -1,0 +1,14 @@
+{
+  "nativePlugins": [
+    {
+      "hooksClass": "",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "Mobai-TCP",
+          "class": "com.mobai.MobaiTcpModule"
+        }
+      ]
+    }
+  ]
+}
