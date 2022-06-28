@@ -3,7 +3,7 @@
 
 生成aar文件可用于uniapp在android环境下TCP通讯
 
-下面我自己写了个小deme，上效果
+下面我自己写了个小demo，上效果
 
 ![1631072291077.gif](http://ww1.sinaimg.cn/large/007TQE1Sgy1gu92qrgerag60hs0c01lk02.gif)
 
